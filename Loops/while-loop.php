@@ -12,4 +12,17 @@ while ($i <= 5) {
 // Explanation:
 // The condition $i <= 5 is checked before each iteration.
 // Loop runs while condition is true.
+
+
+// Print even numbers from 1 to 20 using while loop
+
+echo "Even Numbers using WHILE loop:<br>";
+
+$i = 1;
+while ($i <= 20) {
+    if ($i % 2 == 0) {
+        echo "$i<br>";
+    }
+    $i++;
+}
 ?>

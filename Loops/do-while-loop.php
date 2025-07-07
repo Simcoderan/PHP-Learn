@@ -12,4 +12,18 @@ do {
 
 // Explanation:
 // The code inside do { } runs first, then condition is checked.
+
+
+
+// Print even numbers from 1 to 20 using do...while loop
+
+echo "Even Numbers using DO-WHILE loop:<br>";
+
+$i = 1;
+do {
+    if ($i % 2 == 0) {
+        echo "$i<br>";
+    }
+    $i++;
+} while ($i <= 20);
 ?>
