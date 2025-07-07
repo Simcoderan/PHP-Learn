@@ -16,4 +16,7 @@ print "Hello, PHP!";    // ✅ Correct
 
 // print("Hello, World!", 25); ❌ ERROR - print cannot take multiple arguments
 // print("Hello, World!", 25); // ❌ This will cause an error
+
+
+
 ?>
