@@ -30,4 +30,13 @@ This folder contains PHP examples demonstrating how conditional logic works usin
 
 1. Place this folder inside your XAMPP/WAMP/LAMP `htdocs` directory (or equivalent for your local server setup).  
 2. Start your local server (Apache).  
-3. Open your browser and visit the files by navigating to:  
+3. Open your browser and visit the files by navigating to: 
+
+http://localhost/your-folder-name/filename.php 
+
+Replace `your-folder-name` and `filename.php` accordingly.
+
+
+
+
+
