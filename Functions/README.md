@@ -57,3 +57,10 @@ Located inside: `Include-Require-demo/`
 2. Place the folder inside your local server (e.g., `htdocs` in XAMPP).
 3. Start Apache from XAMPP.
 4. Open your browser and visit:
+  
+  http://localhost/conditional-statement-folder/if-statement.php
+
+5. Modify variables inside the files to test different outcomes.
+
+
+
