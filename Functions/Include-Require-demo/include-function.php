@@ -7,7 +7,11 @@
 // ----------------------------------------------------------
 
 // ✅ Includes the function from greetings.php file
-include 'greetings.php';
+
+// This allows us to use the greetUser function defined in greetings.php
+// without rewriting it here.
+include '../greetings.php'; 
+
 
 // ✅ Calls the function defined in greetings.php
 greetUser("Simran");

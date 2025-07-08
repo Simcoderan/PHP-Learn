@@ -5,5 +5,5 @@ function factorial($n) {
     return $n * factorial($n - 1);
 }
 
-echo factorial(5); // Output: 120
+echo "Factorial of 5 is " . factorial(5); // Output: 120
 ?>
